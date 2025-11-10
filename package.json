@@ -1,0 +1,8 @@
+{
+    "name": "ChallinoBackend",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "echo 'No build needed'"
+    }
+  }
+  
